@@ -34,5 +34,7 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
     margin-left: 0;
     padding-left: 0;
 }
-
+.section-header {
+    text-align: left;
+}
 
