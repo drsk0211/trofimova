@@ -128,3 +128,7 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
     background:#282828;
     box-shadow:0 18px 31px 0 rgba(0,0,0,.3);
 }
+#zakaz {
+    text-align: center;
+    font-size: 1.2rem;
+}
