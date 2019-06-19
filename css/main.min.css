@@ -44,6 +44,14 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
 .section-header {
     text-align: left;
 }
+.usluga-head {
+    text-align: center;
+    font-size: 1.5rem;
+}
+.usluga-text {
+    text-align: center;
+    font-size: 1.1rem;
+}
 .prim{
     text-align: center;
     font-size: 19px;
@@ -83,7 +91,7 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
  
 }
 .otzuv-img {
-    width: 80px;
+   
 }
 .otzuv-img img {
     border: 0px solid black;
