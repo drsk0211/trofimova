@@ -91,7 +91,8 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
  
 }
 .otzuv-img {
-   
+   max-width: 100px;
+   width: 100%;
 }
 .otzuv-img img {
     border: 0px solid black;
@@ -139,4 +140,5 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
 #zakaz {
     text-align: center;
     font-size: 1.2rem;
+    font-weight: 300;
 }
