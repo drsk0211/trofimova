@@ -37,9 +37,12 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
 .home-contact {
     margin-top: 20%;
     text-align: right;
-    color: white;
+    color: white ;
     
     font-weight: 400;
+}
+.home-contact a {
+    color: white;
 }
 .section-header {
     text-align: left;
