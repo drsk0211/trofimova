@@ -17,6 +17,9 @@ html, body{width:100%; overflow-x:hidden}
     .prim-head {
         font-size: 0.8rem !important;
     }
+    .strelka {
+        transform: rotate(90deg);
+    }
 }
 @media only screen and (max-width:640px) {
     .home-text {
