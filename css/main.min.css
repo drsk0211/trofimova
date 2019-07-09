@@ -1,6 +1,14 @@
 a,body{color:#282828}
 html, body{width:100%; overflow-x:hidden}
+@media only screen and (max-width:468px) {
+    #head {
+        font-size: 1.5rem !important;
 
+    }
+    .home-text {
+        padding-top: 4rem !important;
+    }
+}
 .site-navbar,a{transition:all .3s}#portfolio 
 .imgport:hover,#team .imgteam:hover,.carousel .carousel-indicators li:hover,a{cursor:pointer}
 #portfolio h3,#pricing h3,#pricing h5,#services h3,#services h4,#services p{text-align:center}
