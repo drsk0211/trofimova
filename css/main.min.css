@@ -8,6 +8,14 @@ html, body{width:100%; overflow-x:hidden}
     .home-text {
         padding-top: 4rem !important;
     }
+    .prim-text {
+        text-align: justify !important;
+    }
+}
+@media only screen and (max-width:640px) {
+    .home-text {
+        text-align: center !important;
+    }
 }
 .site-navbar,a{transition:all .3s}#portfolio 
 .imgport:hover,#team .imgteam:hover,.carousel .carousel-indicators li:hover,a{cursor:pointer}
@@ -93,6 +101,7 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
     padding-top: 15px;
 }
 .prim-text {
+    text-align: center;
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 5px;
