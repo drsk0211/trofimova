@@ -26,6 +26,17 @@ html, body{width:100%; overflow-x:hidden}
         text-align: center !important;
     }
 }
+@media only screen and (max-width:302px) {
+    .home-text {
+        margin-top: 30px;
+    }
+    .pochta {
+        font-size: 0.5rem;
+    }
+    .phone {
+        font-size: 0.8rem;
+    }
+}
 .site-navbar,a{transition:all .3s}#portfolio 
 .imgport:hover,#team .imgteam:hover,.carousel .carousel-indicators li:hover,a{cursor:pointer}
 #portfolio h3,#pricing h3,#pricing h5,#services h3,#services h4,#services p{text-align:center}
@@ -172,4 +183,13 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
     text-align: center;
     font-size: 1.2rem;
     font-weight: 300;
+}
+.forma {
+    align-content: center;
+}
+.forma iframe {
+    max-width: 650px;
+    width: 100%;
+    margin-right: 10%;
+    margin-left: 10%; 
 }
