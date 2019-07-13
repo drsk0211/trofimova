@@ -196,3 +196,9 @@ h3 span{font-size:1em;padding:0;color:#fc490c}
 .set {
     max-width: 300px;
 }
+
+.switch {
+    bottom: 60px;
+    right: 20px;
+    border-radius: 5px;
+}
